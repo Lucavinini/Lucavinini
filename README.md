@@ -19,7 +19,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vinicioslucas37)
 
-## Currículo
+## 📄 Currículo
 [![Currículo](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19MeiPGk_sCv_S3S35SWMwtYSZpxGiyK1/view?usp=sharing)
 
 ## 🎓 Stacks 
