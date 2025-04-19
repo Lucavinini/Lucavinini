@@ -43,6 +43,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Lucavinini&show_icons=true&theme=dark&count_private=true&locale=pt-br) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucavinini&hide_progress=true&theme=dark&locale=pt-br) |
 |---|---|
 
-
+<div align="center">
 ## ⚡ Streak 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lucavinini&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
+</div>
