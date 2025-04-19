@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Meu nome é Lucas Vinícius! 🙋🏽
+#
 
-<!--
-**Lucavinini/Lucavinini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vinicioslucas37)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Lucavinini&show_icons=true&theme=dark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Conquistas
+![trophy](https://github-profile-trophy.vercel.app/?username=Lucavinini&theme=darkhub&column=7)
+
+## 🔥 Meu Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucavinini&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
