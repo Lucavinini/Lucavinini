@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Ol%C3%A1!+Meu+nome+é+Lucas+Vinícius+🧑🏽‍🎤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Ol%C3%A1!+Meu+nome+é+Lucas+Vinícius)](https://git.io/typing-svg)
 
 👋 Sou estudante de Ciência da Computação na Universidade Católica de Pernambuco, atualmente no 4º período.
 
@@ -14,7 +14,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vinicioslucas37)
 
 ## 🎓 Stacks 
-![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)]
 
 ## ⭐ GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lucavinini&show_icons=true&theme=dark&count_private=true&locale=pt-br)
