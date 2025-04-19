@@ -22,7 +22,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 ## 📄 Currículo
 [![Currículo](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19MeiPGk_sCv_S3S35SWMwtYSZpxGiyK1/view?usp=sharing)
 
-## 🎓 Stacks 
+## 🎓 Stack 
 ![](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
