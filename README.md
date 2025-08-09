@@ -18,7 +18,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 [![](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:highdevlucas@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Lucas%2C%20vi%20seu%20projeto%20no%20GitHub...)
 
 ## 📄 Currículo
-[![Currículo](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19MeiPGk_sCv_S3S35SWMwtYSZpxGiyK1/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1P2rC4DVYGNMUD8fFhnDRdoSq2AXhZ5dz/view?usp=drive_link)
 
 ## 🎓 Stack 
 ![](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
