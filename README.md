@@ -2,7 +2,7 @@
 
 👋 Sou estudante de Ciência da Computação na Universidade Católica de Pernambuco, atualmente no 4º período.
 
-Tenho um interesse especial por Desenvolvimento Web, onde venho me dedicando principalmente ao ecossistema do React. Também tenho explorado o mundo do desenvolvimento mobile, mas é na Web que realmente me encontro.
+Tenho um interesse especial por Desenvolvimento Web, onde venho me dedicando principalmente ao ecossistema do .NET. Também tenho explorado o mundo do desenvolvimento mobile, mas é na Web que realmente me encontro.
 
 Além dos estudos acadêmicos, faço parte de um projeto de Iniciação Científica, onde trabalho com algoritmos de aprendizado de máquina, o que tem ampliado minha visão sobre tecnologia e suas aplicações no mundo real.
 
@@ -35,6 +35,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto 
 ![](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+
 
 ## ⭐ GitHub Stats
 
